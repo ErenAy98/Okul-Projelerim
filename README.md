@@ -1,2 +1,2 @@
 # Okul-Projelerim
-Üniversite süresince yapılan kodlamalar
+Üniversite süresince yapılan kodlamalarım
